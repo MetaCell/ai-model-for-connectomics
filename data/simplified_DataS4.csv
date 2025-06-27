@@ -1,0 +1,671 @@
+root_630,pre,pos_x,pos_y,pos_z,cell_class,cell_type,known_nt,acetylcholine,gaba,glutamate,dopamine,serotonin,octopamine,num_nts,is_cotransmitter
+720575940625413395,1201.0,113000.0,59340.0,1655,ALPN,"(M_adPNm4,M_adPNm5)a",acetylcholine,True,False,False,False,False,False,1,False
+720575940614316731,1171.0,122700.0,56360.0,2263,ALPN,"(M_adPNm4,M_adPNm5)b",acetylcholine,True,False,False,False,False,False,1,False
+720575940627949929,1163.0,123400.0,57510.0,2088,ALPN,"(M_adPNm4,M_adPNm5)b",acetylcholine,True,False,False,False,False,False,1,False
+720575940620551259,2092.0,125100.0,58910.0,2231,ALPN,"(M_adPNm4,M_adPNm5)c",acetylcholine,True,False,False,False,False,False,1,False
+720575940631930828,17834.0,114600.0,63600.0,1617,ALPN,DA4m_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940637943374,11936.0,147800.0,61770.0,869,ALPN,DC3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940634939327,9460.0,116600.0,58880.0,1192,ALPN,DC3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940613419695,9469.0,112700.0,33610.0,4563,ALPN,DC3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940630131663,8469.0,116400.0,60000.0,1156,ALPN,DC3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940617781383,11879.0,148400.0,62210.0,764,ALPN,DC3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940613579943,19418.0,101400.0,32410.0,4535,ALPN,DC4_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620103590,3574.0,111900.0,55040.0,1439,ALPN,DL2d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940642046453,2847.0,111400.0,55090.0,1426,ALPN,DL2d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940630928715,4465.0,122700.0,51460.0,875,ALPN,DL2d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940605421442,1608.0,112200.0,54360.0,1520,ALPN,DL2d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940621123113,6220.0,150200.0,58710.0,1241,ALPN,DL2d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940628181520,7462.0,114600.0,56540.0,1563,ALPN,DL2v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940637864355,6953.0,148400.0,58840.0,1243,ALPN,DL2v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940627772009,7531.0,113200.0,55560.0,1462,ALPN,DL2v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940611022515,7569.0,114400.0,56690.0,1551,ALPN,DL2v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620467438,6114.0,115700.0,56610.0,1617,ALPN,DL2v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940619531373,7424.0,148100.0,36670.0,3986,ALPN,DL2v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940614714178,7099.0,150000.0,58400.0,1132,ALPN,DL2v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940623902471,7082.0,167700.0,36800.0,3768,ALPN,DM6_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940631328104,6706.0,122900.0,55770.0,1223,ALPN,DM6_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620437339,7017.0,95670.0,34650.0,4387,ALPN,DM6_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940622785062,6926.0,96170.0,34240.0,4382,ALPN,DM6_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940625493400,7911.0,141300.0,59250.0,1273,ALPN,DM6_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940618499238,7523.0,147000.0,58860.0,985,ALPN,D_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940603985952,8086.0,117900.0,55980.0,1324,ALPN,D_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940627844734,7295.0,117200.0,56820.0,1363,ALPN,D_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940612197374,7846.0,146000.0,59330.0,940,ALPN,D_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940633804212,7428.0,118000.0,56800.0,1251,ALPN,D_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940623875819,9169.0,119700.0,65040.0,1924,ALPN,M_adPNm3,acetylcholine,True,False,False,False,False,False,1,False
+720575940640804853,12788.0,116900.0,58740.0,1263,ALPN,VA1d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940630547909,9114.0,147900.0,61560.0,832,ALPN,VA1d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940625564676,7767.0,147700.0,62070.0,847,ALPN,VA1d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620266406,5635.0,146300.0,61110.0,945,ALPN,VA1d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940622448589,6817.0,147600.0,61950.0,816,ALPN,VA1d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940622811430,11253.0,116900.0,58480.0,1201,ALPN,VA1d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940623739076,6472.0,147800.0,62930.0,138,ALPN,VA1v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940630989354,6724.0,143200.0,61320.0,428,ALPN,VA1v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940629733626,7513.0,117800.0,58410.0,1025,ALPN,VA1v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940625014928,6734.0,144800.0,62300.0,197,ALPN,VA1v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620199962,8049.0,118200.0,60170.0,905,ALPN,VA1v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940633165025,7272.0,148500.0,64110.0,256,ALPN,VA1v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940629097922,7329.0,117300.0,58590.0,971,ALPN,VA1v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940628283560,8096.0,120200.0,59800.0,1008,ALPN,VA1v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940604431584,13490.0,118500.0,60350.0,1324,ALPN,VA3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940629009513,14725.0,147800.0,62290.0,901,ALPN,VA3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940615394719,6860.0,109800.0,32190.0,4564,ALPN,VC3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940619928429,7573.0,121300.0,58790.0,1488,ALPN,VC3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940619902598,7924.0,121800.0,59530.0,1514,ALPN,VC3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620465904,6571.0,120100.0,60550.0,1247,ALPN,VC3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940640697808,7274.0,121600.0,58770.0,1185,ALPN,VM2_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940617179451,8645.0,121900.0,59320.0,1316,ALPN,VM2_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940619280705,8029.0,141700.0,61460.0,979,ALPN,VM2_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940611372714,6082.0,121000.0,58850.0,1375,ALPN,VM5d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940629279544,4642.0,138800.0,50460.0,476,ALPN,VM5d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940606649865,5541.0,142000.0,61610.0,870,ALPN,VM5d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940644961588,7276.0,110200.0,33340.0,4740,ALPN,VM5d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940616020795,4588.0,142700.0,61350.0,879,ALPN,VM5d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940627035388,5079.0,121600.0,59970.0,1083,ALPN,VM5d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940635082871,5921.0,121300.0,59990.0,1056,ALPN,VM5d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620189790,5424.0,120500.0,60060.0,1194,ALPN,VM5v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940625431866,5291.0,121400.0,59710.0,1248,ALPN,VM5v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940610505170,5217.0,121300.0,59660.0,1036,ALPN,VM5v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940613167007,12853.0,100500.0,33370.0,4558,ALPN,VM7d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940628524292,11512.0,121800.0,58210.0,1562,ALPN,VM7d_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940605309361,9987.0,142500.0,61460.0,1098,ALPN,VM7v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940608628419,5282.0,143000.0,61260.0,874,ALPN,VM7v_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940612856342,6868.0,119600.0,64720.0,2021,ALPN,VP2+_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940629752219,7129.0,145100.0,66560.0,1520,ALPN,VP2+_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940619895125,18347.0,103900.0,34130.0,4652,ALPN,VP2_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940608293129,19502.0,138000.0,63160.0,1811,ALPN,VP2_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620445062,13929.0,114200.0,63160.0,1545,ALPN,VP5+Z_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940623617973,13896.0,145000.0,62860.0,1555,ALPN,VP5+Z_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940659400577,5498.0,117800.0,56760.0,1363,ALPN,DA3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940625924618,4981.0,98580.0,33980.0,4320,ALPN,DA3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940608970197,18891.0,95840.0,34800.0,4687,ALPN,DA4l_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940649045369,16470.0,166400.0,36790.0,4136,ALPN,DA4l_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940616079035,13911.0,115400.0,54070.0,1309,ALPN,DL1_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940627042064,13804.0,148500.0,57990.0,1033,ALPN,DL1_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940632167085,13893.0,150200.0,57360.0,923,ALPN,DL1_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940627708688,16128.0,120900.0,59920.0,1494,ALPN,DL4_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940617207185,28120.0,97260.0,33100.0,4554,ALPN,DL5_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940637594334,28887.0,144700.0,61240.0,213,ALPN,VA6_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940636873791,27132.0,115500.0,59890.0,1175,ALPN,VA6_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940618277184,18142.0,145000.0,63990.0,634,ALPN,VA7l_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940625784153,16683.0,118700.0,61500.0,964,ALPN,VA7l_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940618295454,29140.0,114000.0,56670.0,1467,ALPN,VL2a_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940628467611,39388.0,116200.0,65850.0,1687,ALPN,VL2p_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940627480586,13759.0,107400.0,32610.0,4685,ALPN,VM3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940616566133,6343.0,141800.0,63630.0,1062,ALPN,VM3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940617917760,13323.0,141800.0,63420.0,1046,ALPN,VM3_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940640971995,11178.0,122600.0,60680.0,1691,ALPN,VM4_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940632698797,22710.0,141400.0,63960.0,1423,ALPN,VM6_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940624057853,24453.0,100400.0,32540.0,4572,ALPN,VM6_adPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620233307,2398.0,145200.0,59520.0,1200,ALPN,"(M_lPNm12,M_lPNm13)a",acetylcholine,True,False,False,False,False,False,1,False
+720575940617381681,2116.0,145900.0,59580.0,1225,ALPN,"(M_lPNm12,M_lPNm13)b",acetylcholine,True,False,False,False,False,False,1,False
+720575940610070442,2454.0,154500.0,35140.0,4003,ALPN,"(M_lPNm12,M_lPNm13)b",acetylcholine,True,False,False,False,False,False,1,False
+720575940613347793,1938.0,123900.0,58930.0,2115,ALPN,"(M_lPNm12,M_lPNm13)b",acetylcholine,True,False,False,False,False,False,1,False
+720575940625368976,1831.0,121100.0,58680.0,1866,ALPN,"(M_lPNm12,M_lPNm13)b",acetylcholine,True,False,False,False,False,False,1,False
+720575940629346103,2325.0,122300.0,58960.0,1861,ALPN,"(M_lPNm12,M_lPNm13)b",acetylcholine,True,False,False,False,False,False,1,False
+720575940627172100,2147.0,118000.0,57560.0,1528,ALPN,"(M_lPNm12,M_lPNm13)b",acetylcholine,True,False,False,False,False,False,1,False
+720575940619385765,5056.0,111600.0,55560.0,1239,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940626034819,4088.0,111800.0,57250.0,1326,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940605102694,6433.0,113800.0,58280.0,1223,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940613345442,5397.0,111900.0,56380.0,1297,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940623543881,5304.0,153600.0,60210.0,853,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940621185050,4655.0,113800.0,61630.0,1390,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940604407468,5686.0,152600.0,59610.0,844,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940623303108,5109.0,152900.0,58620.0,802,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940614309535,5300.0,111200.0,57540.0,1253,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940637208718,6579.0,116000.0,60390.0,1314,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940603231916,5594.0,112000.0,56470.0,1216,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940637469254,5375.0,152100.0,59480.0,798,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940630066007,6999.0,156100.0,35030.0,4142,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940621239679,5021.0,153100.0,60260.0,809,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940617229632,3927.0,156300.0,35340.0,4130,ALPN,DA1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940622364184,4039.0,117700.0,57300.0,1469,ALPN,DA2_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940611849187,3428.0,118700.0,57260.0,1426,ALPN,DA2_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940622762995,3358.0,144900.0,59650.0,1081,ALPN,DA2_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940638719104,3542.0,118400.0,56970.0,1425,ALPN,DA2_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940624106442,3175.0,145100.0,59200.0,1122,ALPN,DA2_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940610052266,3400.0,146300.0,59500.0,1165,ALPN,DA2_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940622311704,3214.0,145700.0,59330.0,1100,ALPN,DA2_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940626937617,3683.0,118900.0,57290.0,1436,ALPN,DA2_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940639337461,3595.0,145800.0,59530.0,1163,ALPN,DA2_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940628882450,3100.0,152500.0,59300.0,870,ALPN,DL3_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940615255993,3487.0,152200.0,59620.0,876,ALPN,DL3_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940621203632,2541.0,153100.0,59970.0,865,ALPN,DL3_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940635604581,5870.0,151900.0,59430.0,898,ALPN,DL3_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940627353426,3323.0,111300.0,57110.0,1333,ALPN,DL3_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940621926669,3115.0,112500.0,57330.0,1338,ALPN,DL3_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940630778428,6293.0,112700.0,56880.0,1307,ALPN,DL3_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940634710629,5233.0,151100.0,60090.0,902,ALPN,DL3_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940619807397,4938.0,112900.0,56650.0,1320,ALPN,DL3_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620638335,2466.0,100400.0,55710.0,1378,ALPN,DL3_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940638633535,22100.0,123000.0,58780.0,1654,ALPN,DM2_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940630024566,22152.0,121900.0,60100.0,1618,ALPN,DM2_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940640032896,7650.0,118500.0,57390.0,1413,ALPN,DM5_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940644258327,7521.0,118400.0,57130.0,1450,ALPN,DM5_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940629926159,7368.0,118900.0,57400.0,1444,ALPN,DM5_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940642492576,7506.0,144800.0,59160.0,1129,ALPN,DM5_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940623547133,9310.0,110700.0,63820.0,1842,ALPN,M_l2PNm15,acetylcholine,True,False,False,False,False,False,1,False
+720575940628504919,1237.0,140200.0,60270.0,1774,ALPN,M_lPNm11A,acetylcholine,True,False,False,False,False,False,1,False
+720575940612598499,1397.0,139400.0,59400.0,1814,ALPN,M_lPNm11A,acetylcholine,True,False,False,False,False,False,1,False
+720575940604412588,1360.0,140200.0,60450.0,1834,ALPN,M_lPNm11A,acetylcholine,True,False,False,False,False,False,1,False
+720575940620920831,1037.0,124000.0,58680.0,2153,ALPN,M_lPNm11A,acetylcholine,True,False,False,False,False,False,1,False
+720575940628514647,1499.0,141300.0,60730.0,1596,ALPN,M_lPNm11A,acetylcholine,True,False,False,False,False,False,1,False
+720575940625805084,1326.0,125000.0,57720.0,2329,ALPN,M_lPNm11A,acetylcholine,True,False,False,False,False,False,1,False
+720575940625819138,1828.0,120500.0,58460.0,1879,ALPN,M_lPNm11B,acetylcholine,True,False,False,False,False,False,1,False
+720575940623137741,2605.0,118100.0,58580.0,1620,ALPN,M_lPNm11C,acetylcholine,True,False,False,False,False,False,1,False
+720575940638778165,2191.0,123800.0,55030.0,2691,ALPN,M_lPNm11D,acetylcholine,True,False,False,False,False,False,1,False
+720575940644238871,2144.0,123400.0,55180.0,2690,ALPN,M_lPNm11D,acetylcholine,True,False,False,False,False,False,1,False
+720575940613809554,2560.0,117100.0,58400.0,1501,ALPN,M_lPNm11D,acetylcholine,True,False,False,False,False,False,1,False
+720575940628954112,2300.0,120700.0,58520.0,1926,ALPN,M_lPNm11D,acetylcholine,True,False,False,False,False,False,1,False
+720575940623287228,2185.0,113300.0,58620.0,1416,ALPN,M_lPNm11D,acetylcholine,True,False,False,False,False,False,1,False
+720575940633499548,7390.0,169100.0,35280.0,4002,ALPN,VA5_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940637009636,7670.0,97400.0,33060.0,4543,ALPN,VA5_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940632868563,6378.0,169100.0,35030.0,3999,ALPN,VA5_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940619838912,7148.0,115000.0,61460.0,1454,ALPN,VA5_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940637231593,7268.0,96450.0,32640.0,4533,ALPN,VA5_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940640398477,5679.0,115500.0,60320.0,1404,ALPN,VA7m_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620068518,5992.0,114700.0,61250.0,1433,ALPN,VA7m_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940633190847,22033.0,146500.0,63640.0,1214,ALPN,VC1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940628077568,7752.0,114800.0,59420.0,1472,ALPN,VM1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940623444715,10083.0,115100.0,59690.0,1434,ALPN,VM1_lPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940623307447,2029.0,117400.0,64590.0,2291,ALPN,CB1321,acetylcholine,True,False,False,False,False,False,1,False
+720575940633552028,1841.0,117700.0,63900.0,2286,ALPN,CB1321,acetylcholine,True,False,False,False,False,False,1,False
+720575940639202467,1770.0,143300.0,63080.0,1930,ALPN,CB1321,acetylcholine,True,False,False,False,False,False,1,False
+720575940604911793,1427.0,118400.0,62880.0,2243,ALPN,CB1321,acetylcholine,True,False,False,False,False,False,1,False
+720575940604974978,2164.0,120200.0,62230.0,1993,ALPN,CB1988,acetylcholine,True,False,False,False,False,False,1,False
+720575940609030776,1497.0,143500.0,65480.0,2014,,CB2388,acetylcholine,True,False,False,False,False,False,1,False
+720575940619559838,1966.0,143500.0,64680.0,1996,,CB2388,acetylcholine,True,False,False,False,False,False,1,False
+720575940632128908,2604.0,118100.0,63900.0,2300,ALPN,CB3206,acetylcholine,True,False,False,False,False,False,1,False
+720575940648206468,2391.0,143400.0,62840.0,1947,ALPN,CB3206,acetylcholine,True,False,False,False,False,False,1,False
+720575940637185252,2847.0,143600.0,64580.0,1984,ALPN,CB3206,acetylcholine,True,False,False,False,False,False,1,False
+720575940612829663,1338.0,143200.0,62640.0,1774,ALPN,CB3383,acetylcholine,True,False,False,False,False,False,1,False
+720575940624200974,1287.0,119600.0,61280.0,2171,ALPN,CB3383,acetylcholine,True,False,False,False,False,False,1,False
+720575940604919473,1477.0,119500.0,62620.0,2178,ALPN,CB3383,acetylcholine,True,False,False,False,False,False,1,False
+720575940628164222,1688.0,119400.0,62070.0,2145,ALPN,CB3383,acetylcholine,True,False,False,False,False,False,1,False
+720575940629906425,1725.0,143400.0,63170.0,1787,ALPN,CB3383,acetylcholine,True,False,False,False,False,False,1,False
+720575940626682682,3694.0,143300.0,63640.0,1966,ALPN,MZ_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940628420008,3379.0,118700.0,62900.0,1834,ALPN,M_lvPNm25,acetylcholine,True,False,False,False,False,False,1,False
+720575940629874806,2267.0,120900.0,61890.0,1883,ALPN,M_lvPNm28,acetylcholine,True,False,False,False,False,False,1,False
+720575940638689001,2601.0,120300.0,62820.0,1756,ALPN,M_lvPNm29,acetylcholine,True,False,False,False,False,False,1,False
+720575940617030178,1965.0,120600.0,62550.0,1901,ALPN,M_lvPNm29,acetylcholine,True,False,False,False,False,False,1,False
+720575940613751186,2341.0,120200.0,62290.0,1834,ALPN,M_lvPNm31,acetylcholine,True,False,False,False,False,False,1,False
+720575940629089068,1717.0,118000.0,60840.0,2092,ALPN,M_lvPNm35,acetylcholine,True,False,False,False,False,False,1,False
+720575940610423538,1916.0,118600.0,60800.0,2118,ALPN,M_lvPNm35,acetylcholine,True,False,False,False,False,False,1,False
+720575940630432815,1897.0,118800.0,60780.0,2130,ALPN,M_lvPNm35,acetylcholine,True,False,False,False,False,False,1,False
+720575940632627757,1329.0,106300.0,29020.0,4637,ALPN,M_lvPNm37,acetylcholine,True,False,False,False,False,False,1,False
+720575940623576141,1222.0,117900.0,61090.0,2129,ALPN,M_lvPNm37,acetylcholine,True,False,False,False,False,False,1,False
+720575940639384947,1093.0,117900.0,61390.0,2118,ALPN,M_lvPNm37,acetylcholine,True,False,False,False,False,False,1,False
+720575940607195826,6503.0,119800.0,62760.0,1849,ALPN,M_lvPNm39,acetylcholine,True,False,False,False,False,False,1,False
+720575940646416419,905.0,144000.0,63240.0,1717,ALPN,M_lvPNm40,acetylcholine,True,False,False,False,False,False,1,False
+720575940612821727,2315.0,144600.0,64070.0,1387,ALPN,M_lvPNm40,acetylcholine,True,False,False,False,False,False,1,False
+720575940642212552,1849.0,118400.0,62570.0,1664,ALPN,M_lvPNm40,acetylcholine,True,False,False,False,False,False,1,False
+720575940627114492,1881.0,119300.0,62280.0,1769,ALPN,M_lvPNm40,acetylcholine,True,False,False,False,False,False,1,False
+720575940620840368,2448.0,117600.0,62370.0,1579,ALPN,M_lvPNm41,acetylcholine,True,False,False,False,False,False,1,False
+720575940611856498,2533.0,147500.0,65000.0,1112,ALPN,M_lvPNm41,acetylcholine,True,False,False,False,False,False,1,False
+720575940607001986,2076.0,118900.0,62370.0,1814,ALPN,M_lvPNm41,acetylcholine,True,False,False,False,False,False,1,False
+720575940606498313,2293.0,146900.0,64800.0,1150,ALPN,M_lvPNm41,acetylcholine,True,False,False,False,False,False,1,False
+720575940636096948,2348.0,145600.0,64310.0,1222,ALPN,M_lvPNm42,acetylcholine,True,False,False,False,False,False,1,False
+720575940632216928,2209.0,146800.0,64620.0,1139,ALPN,M_lvPNm43,acetylcholine,True,False,False,False,False,False,1,False
+720575940625237891,2221.0,145300.0,64030.0,1292,ALPN,M_lvPNm43,acetylcholine,True,False,False,False,False,False,1,False
+720575940621792438,2290.0,118300.0,62690.0,1679,ALPN,M_lvPNm43,acetylcholine,True,False,False,False,False,False,1,False
+720575940623815486,951.0,143200.0,63210.0,1659,ALPN,M_lvPNm44,acetylcholine,True,False,False,False,False,False,1,False
+720575940611557785,1214.0,119200.0,62190.0,1865,ALPN,M_lvPNm44,acetylcholine,True,False,False,False,False,False,1,False
+720575940628303607,2275.0,118800.0,62400.0,1717,ALPN,M_lvPNm45,acetylcholine,True,False,False,False,False,False,1,False
+720575940627928911,2165.0,118900.0,62350.0,1950,ALPN,M_lvPNm45,acetylcholine,True,False,False,False,False,False,1,False
+720575940612526819,2217.0,118700.0,62630.0,1793,ALPN,M_lvPNm45,acetylcholine,True,False,False,False,False,False,1,False
+720575940622547421,2495.0,145500.0,63890.0,1397,ALPN,M_lvPNm45,acetylcholine,True,False,False,False,False,False,1,False
+720575940625544069,839.0,120600.0,62100.0,2221,ALPN,M_lvPNm46,acetylcholine,True,False,False,False,False,False,1,False
+720575940608376622,1193.0,120400.0,62130.0,2247,ALPN,M_lvPNm46,acetylcholine,True,False,False,False,False,False,1,False
+720575940617972901,1379.0,143500.0,63100.0,1867,ALPN,M_lvPNm47,acetylcholine,True,False,False,False,False,False,1,False
+720575940631576351,1010.0,119200.0,62450.0,2208,ALPN,M_lvPNm47,acetylcholine,True,False,False,False,False,False,1,False
+720575940638415731,768.0,118300.0,63380.0,2264,ALPN,M_lvPNm48,acetylcholine,True,False,False,False,False,False,1,False
+720575940645532292,750.0,118400.0,63150.0,2293,ALPN,M_lvPNm48,acetylcholine,True,False,False,False,False,False,1,False
+720575940618800225,1489.0,143200.0,62630.0,1913,ALPN,M_lvPNm48,acetylcholine,True,False,False,False,False,False,1,False
+720575940607539907,1080.0,118600.0,62650.0,2244,ALPN,M_lvPNm48,acetylcholine,True,False,False,False,False,False,1,False
+720575940608199748,12484.0,120300.0,61940.0,2047,ALPN,VC5_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940624515571,10385.0,120100.0,62240.0,1880,ALPN,VC5_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940608845525,10355.0,120100.0,62130.0,2070,ALPN,VC5_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940624834697,2957.0,143700.0,62750.0,1723,ALPN,VM4_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940626247823,3116.0,119900.0,61740.0,2136,ALPN,VM4_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940618461121,3161.0,120200.0,61700.0,2123,ALPN,VM4_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940617642832,6091.0,143300.0,63300.0,1641,ALPN,VM4_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940615808029,2724.0,143400.0,62810.0,1689,ALPN,VM4_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940630584079,1856.0,118900.0,60750.0,2117,ALPN,VP1l+_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620566808,1730.0,147600.0,63890.0,1826,ALPN,VP1l+_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940625627023,2045.0,118900.0,61280.0,2138,ALPN,VP1l+_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940625176094,1695.0,114600.0,29230.0,4161,ALPN,VP1l+_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940624083484,1870.0,146900.0,63530.0,1814,ALPN,VP1l+_lvPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940623039672,909.0,117100.0,61370.0,2004,ALPN,ALv1_23,gaba,False,True,False,False,False,False,1,False
+720575940605028017,5299.0,116000.0,63300.0,2384,,AVLP446,gaba,False,True,False,False,False,False,1,False
+720575940660281217,5948.0,111800.0,65360.0,2388,,AVLP447,gaba,False,True,False,False,False,False,1,False
+720575940638865011,6185.0,151500.0,69320.0,2005,,AVLP447,gaba,False,True,False,False,False,False,1,False
+720575940620710822,1366.0,118400.0,61110.0,2138,ALPN,CB1041,gaba,False,True,False,False,False,False,1,False
+720575940645104948,1409.0,118600.0,60930.0,2156,ALPN,CB1041,gaba,False,True,False,False,False,False,1,False
+720575940626959134,1108.0,118500.0,59920.0,2092,ALPN,CB1296,gaba,False,True,False,False,False,False,1,False
+720575940613864891,1465.0,119500.0,59600.0,2027,ALPN,CB1296,gaba,False,True,False,False,False,False,1,False
+720575940634834544,1379.0,119300.0,59740.0,2076,ALPN,CB1296,gaba,False,True,False,False,False,False,1,False
+720575940640007296,1271.0,119200.0,59770.0,2072,ALPN,CB1296,gaba,False,True,False,False,False,False,1,False
+720575940622151804,586.0,118100.0,61030.0,2141,ALPN,CB2020,gaba,False,True,False,False,False,False,1,False
+720575940630146103,1022.0,118300.0,61130.0,2137,ALPN,CB2020,gaba,False,True,False,False,False,False,1,False
+720575940609218258,950.0,117600.0,61120.0,2118,ALPN,CB2307,gaba,False,True,False,False,False,False,1,False
+720575940617470137,1724.0,114800.0,58420.0,1646,ALPN,CB2372,gaba,False,True,False,False,False,False,1,False
+720575940632032652,1481.0,119100.0,61120.0,2085,ALPN,CB2536,gaba,False,True,False,False,False,False,1,False
+720575940627822647,1285.0,117500.0,57720.0,1584,ALPN,CB2561,gaba,False,True,False,False,False,False,1,False
+720575940639138237,1251.0,119000.0,60340.0,1780,ALPN,CB2589,gaba,False,True,False,False,False,False,1,False
+720575940629083211,1389.0,119500.0,59470.0,1991,ALPN,CB2589,gaba,False,True,False,False,False,False,1,False
+720575940615462978,1278.0,119600.0,59890.0,2089,ALPN,CB2589,gaba,False,True,False,False,False,False,1,False
+720575940609962389,920.0,116600.0,60990.0,2043,ALPN,CB2703,gaba,False,True,False,False,False,False,1,False
+720575940617885643,738.0,116400.0,60460.0,1909,ALPN,CB2703,gaba,False,True,False,False,False,False,1,False
+720575940633688275,710.0,116000.0,61240.0,1979,ALPN,CB2703,gaba,False,True,False,False,False,False,1,False
+720575940639341987,801.0,115400.0,61110.0,1989,ALPN,CB2711,gaba,False,True,False,False,False,False,1,False
+720575940618609462,1235.0,118800.0,60200.0,1721,ALPN,CB2761,gaba,False,True,False,False,False,False,1,False
+720575940625097274,1361.0,117500.0,61140.0,2127,ALPN,CB2761,gaba,False,True,False,False,False,False,1,False
+720575940628185538,1397.0,117600.0,61280.0,2115,ALPN,CB2761,gaba,False,True,False,False,False,False,1,False
+720575940618840280,723.0,116000.0,60810.0,1951,ALPN,CB2772,gaba,False,True,False,False,False,False,1,False
+720575940637749574,697.0,116200.0,60780.0,1974,ALPN,CB2772,gaba,False,True,False,False,False,False,1,False
+720575940633052641,1397.0,117400.0,61240.0,2140,ALPN,CB2900,gaba,False,True,False,False,False,False,1,False
+720575940632994970,1515.0,118300.0,60880.0,2142,ALPN,CB2900,gaba,False,True,False,False,False,False,1,False
+720575940639594611,1071.0,116800.0,61060.0,2057,ALPN,CB3228,gaba,False,True,False,False,False,False,1,False
+720575940619376767,1905.0,147000.0,63190.0,1646,ALPN,CB3447,gaba,False,True,False,False,False,False,1,False
+720575940634976174,1442.0,109100.0,73130.0,1460,ALPN,CB3447,gaba,False,True,False,False,False,False,1,False
+720575940620622691,2418.0,148400.0,62460.0,1436,ALPN,CB3457,gaba,False,True,False,False,False,False,1,False
+720575940627719184,2080.0,114400.0,58850.0,1655,ALPN,CB3457,gaba,False,True,False,False,False,False,1,False
+720575940612992479,1703.0,114100.0,60610.0,1765,ALPN,CB3597,gaba,False,True,False,False,False,False,1,False
+720575940610956334,7730.0,111700.0,64220.0,2446,,CL114,gaba,False,True,False,False,False,False,1,False
+720575940612355507,7286.0,148700.0,64350.0,1615,ALPN,DA1_vPN,gaba,False,True,False,False,False,False,1,False
+720575940646122804,6507.0,112700.0,61460.0,1682,ALPN,DA1_vPN,gaba,False,True,False,False,False,False,1,False
+720575940629546538,1055.0,115800.0,60860.0,1994,ALPN,DC4_vPN,gaba,False,True,False,False,False,False,1,False
+720575940623922869,1470.0,117600.0,60130.0,2048,ALPN,DL2d_vPN,gaba,False,True,False,False,False,False,1,False
+720575940628323919,2216.0,116900.0,59000.0,1859,ALPN,DM4_vPN,gaba,False,True,False,False,False,False,1,False
+720575940632463464,1710.0,114200.0,62010.0,1938,ALPN,M_vPNml51,gaba,False,True,False,False,False,False,1,False
+720575940622436277,758.0,118900.0,59790.0,2077,ALPN,M_vPNml53,gaba,False,True,False,False,False,False,1,False
+720575940629317991,894.0,118800.0,59840.0,2071,ALPN,M_vPNml53,gaba,False,True,False,False,False,False,1,False
+720575940649743225,891.0,118800.0,59940.0,2063,ALPN,M_vPNml53,gaba,False,True,False,False,False,False,1,False
+720575940619203925,927.0,96140.0,35010.0,4823,ALPN,M_vPNml53,gaba,False,True,False,False,False,False,1,False
+720575940622193276,949.0,118900.0,59940.0,2058,ALPN,M_vPNml53,gaba,False,True,False,False,False,False,1,False
+720575940636610270,1096.0,119200.0,59830.0,2035,ALPN,M_vPNml54,gaba,False,True,False,False,False,False,1,False
+720575940627080079,4636.0,113300.0,62640.0,1628,ALPN,M_vPNml55,gaba,False,True,False,False,False,False,1,False
+720575940626657802,4878.0,150000.0,65410.0,1450,ALPN,M_vPNml55,gaba,False,True,False,False,False,False,1,False
+720575940614774923,1540.0,116400.0,61180.0,2046,ALPN,M_vPNml60,gaba,False,True,False,False,False,False,1,False
+720575940608295032,1453.0,118500.0,60640.0,2134,ALPN,M_vPNml60,gaba,False,True,False,False,False,False,1,False
+720575940620196628,1380.0,116400.0,61400.0,2001,ALPN,M_vPNml60,gaba,False,True,False,False,False,False,1,False
+720575940619439576,938.0,117700.0,60800.0,2153,ALPN,M_vPNml62,gaba,False,True,False,False,False,False,1,False
+720575940615104927,2316.0,150200.0,65640.0,1339,ALPN,M_vPNml63,gaba,False,True,False,False,False,False,1,False
+720575940638677070,2280.0,112300.0,63470.0,1633,ALPN,M_vPNml63,gaba,False,True,False,False,False,False,1,False
+720575940621820540,3752.0,112100.0,62590.0,1570,ALPN,M_vPNml63,gaba,False,True,False,False,False,False,1,False
+720575940626023001,2273.0,112800.0,63290.0,1686,ALPN,M_vPNml63,gaba,False,True,False,False,False,False,1,False
+720575940642410020,2065.0,150000.0,65280.0,1390,ALPN,M_vPNml64,gaba,False,True,False,False,False,False,1,False
+720575940612167794,1935.0,114600.0,61620.0,1811,ALPN,M_vPNml65,gaba,False,True,False,False,False,False,1,False
+720575940634715743,1407.0,115400.0,60770.0,1988,ALPN,M_vPNml67,gaba,False,True,False,False,False,False,1,False
+720575940613824914,1710.0,148300.0,63670.0,1589,ALPN,M_vPNml67,gaba,False,True,False,False,False,False,1,False
+720575940626449154,1113.0,115500.0,61030.0,1970,ALPN,M_vPNml67,gaba,False,True,False,False,False,False,1,False
+720575940639013027,5027.0,149100.0,64980.0,1472,ALPN,M_vPNml68,gaba,False,True,False,False,False,False,1,False
+720575940630093051,4697.0,112600.0,60060.0,1579,ALPN,M_vPNml68,gaba,False,True,False,False,False,False,1,False
+720575940627575569,1143.0,95420.0,37480.0,4422,ALPN,M_vPNml69,gaba,False,True,False,False,False,False,1,False
+720575940628951119,1438.0,119100.0,59740.0,2008,ALPN,M_vPNml69,gaba,False,True,False,False,False,False,1,False
+720575940614114814,1187.0,116800.0,59750.0,1923,ALPN,M_vPNml72,gaba,False,True,False,False,False,False,1,False
+720575940631752356,1148.0,115800.0,58280.0,1656,ALPN,M_vPNml72,gaba,False,True,False,False,False,False,1,False
+720575940619417326,1024.0,115600.0,60640.0,1960,ALPN,M_vPNml80,gaba,False,True,False,False,False,False,1,False
+720575940616682875,834.0,115500.0,60910.0,1933,ALPN,M_vPNml84,gaba,False,True,False,False,False,False,1,False
+720575940620610217,824.0,110800.0,68020.0,1718,ALPN,M_vPNml84,gaba,False,True,False,False,False,False,1,False
+720575940632721306,954.0,115200.0,61180.0,2016,ALPN,M_vPNml84,gaba,False,True,False,False,False,False,1,False
+720575940636944966,648.0,115900.0,60920.0,1963,ALPN,M_vPNml84,gaba,False,True,False,False,False,False,1,False
+720575940619620852,5270.0,113100.0,60860.0,1640,ALPN,VA1d_vPN,gaba,False,True,False,False,False,False,1,False
+720575940631742156,5444.0,149300.0,64200.0,1322,ALPN,VA1v_vPN,gaba,False,True,False,False,False,False,1,False
+720575940621103743,5260.0,157800.0,46660.0,2648,ALPN,VA1v_vPN,gaba,False,True,False,False,False,False,1,False
+720575940634229615,4985.0,113900.0,61880.0,1766,ALPN,VA1v_vPN,gaba,False,True,False,False,False,False,1,False
+720575940632720026,5459.0,113900.0,61430.0,1806,ALPN,VA1v_vPN,gaba,False,True,False,False,False,False,1,False
+720575940624863015,7793.0,98970.0,41120.0,4182,ALPN,VL1_vPN,gaba,False,True,False,False,False,False,1,False
+720575940630983954,7818.0,148400.0,64010.0,1590,ALPN,VL1_vPN,gaba,False,True,False,False,False,False,1,False
+720575940612062426,1438.0,115500.0,60580.0,1954,ALPN,VL2a_vPN,gaba,False,True,False,False,False,False,1,False
+720575940615322674,1942.0,114400.0,60280.0,1831,ALPN,VL2a_vPN,gaba,False,True,False,False,False,False,1,False
+720575940632571583,1618.0,115200.0,60830.0,1966,ALPN,VL2a_vPN,gaba,False,True,False,False,False,False,1,False
+720575940608341806,2384.0,115300.0,60200.0,1894,ALPN,VL2p_vPN,gaba,False,True,False,False,False,False,1,False
+720575940623264906,3118.0,147000.0,62620.0,1717,ALPN,VP3+_vPN,gaba,False,True,False,False,False,False,1,False
+720575940625007949,3293.0,103200.0,71320.0,1609,ALPN,VP3+_vPN,gaba,False,True,False,False,False,False,1,False
+720575940610773782,9424.0,119500.0,59840.0,2221,ALPN,VP4+_vPN,gaba,False,True,False,False,False,False,1,False
+720575940627245585,9924.0,98330.0,36160.0,4594,ALPN,VP4_vPN,gaba,False,True,False,False,False,False,1,False
+720575940626043218,11314.0,143800.0,60820.0,1796,ALPN,VP4_vPN,gaba,False,True,False,False,False,False,1,False
+720575940622541005,5747.0,112400.0,65730.0,2412,ALPN,Z_vPNml1,gaba,False,True,False,False,False,False,1,False
+720575940618660043,2790.0,150300.0,67140.0,1374,ALPN,M_vPNml63,gaba,False,True,False,False,False,False,1,False
+720575940616855225,2341.0,121700.0,63310.0,2085,ALLN,v2LN38,,False,False,False,False,False,False,0,False
+720575940633831264,2307.0,146700.0,64000.0,1528,ALLN,v2LN38,,False,False,False,False,False,False,0,False
+720575940630816207,69.0,118300.0,36280.0,1507,DAN,CB2730,dopamine,False,False,False,True,False,False,1,False
+720575940630794703,162.0,143900.0,48130.0,466,DAN,CB2730,dopamine,False,False,False,True,False,False,1,False
+720575940649649785,179.0,140000.0,38880.0,1580,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940637391582,271.0,141100.0,38270.0,480,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940619785492,243.0,115000.0,31000.0,1672,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940628615683,292.0,126100.0,42280.0,1613,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940634655851,310.0,134100.0,38800.0,626,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940631688808,199.0,118400.0,35980.0,1483,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940621462512,169.0,133800.0,35780.0,709,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940630722956,204.0,117700.0,35860.0,1442,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940631095087,242.0,126100.0,42450.0,1608,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940629188507,171.0,118200.0,35860.0,1471,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940631118610,106.0,126000.0,42690.0,1625,DAN,PAM02,"dopamine, Nplp1, sNPF, sparkly, amnesiac, CG34136",False,False,False,True,False,False,1,False
+720575940625185613,87.0,114300.0,36080.0,1016,DAN,PAM04,dopamine,False,False,False,True,False,False,1,False
+720575940631730349,400.0,115600.0,32120.0,1400,DAN,PAM05,"dopamine, sparkly, Nplp1, amnesiac, CG43117, ion-transport peptide, nitric oxide",False,False,False,True,False,False,1,False
+720575940621504794,507.0,114400.0,34580.0,1721,DAN,PAM05,"dopamine, sparkly, Nplp1, amnesiac, CG43117, ion-transport peptide, nitric oxide",False,False,False,True,False,False,1,False
+720575940622996941,545.0,124700.0,41240.0,1632,DAN,PAM06,dopamine,False,False,False,True,False,False,1,False
+720575940630828485,170.0,114200.0,36750.0,1016,DAN,PAM06,dopamine,False,False,False,True,False,False,1,False
+720575940630465398,445.0,115000.0,36420.0,1399,DAN,PAM07,"dopamine, amnesiac, sparkly, Nplp1, Dh44",False,False,False,True,False,False,1,False
+720575940638548021,381.0,115300.0,36400.0,1391,DAN,PAM07,"dopamine, amnesiac, sparkly, Nplp1, Dh44",False,False,False,True,False,False,1,False
+720575940625338249,155.0,114100.0,35650.0,1202,DAN,PAM08,dopamine,False,False,False,True,False,False,1,False
+720575940619251416,203.0,122800.0,40980.0,1560,DAN,PAM08,dopamine,False,False,False,True,False,False,1,False
+720575940610569028,574.0,125400.0,41720.0,1614,DAN,PAM08,dopamine,False,False,False,True,False,False,1,False
+720575940615816498,171.0,115400.0,35720.0,1574,DAN,PAM13,dopamine,False,False,False,True,False,False,1,False
+720575940633142498,163.0,146400.0,39590.0,623,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940617145561,221.0,144700.0,35170.0,698,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940625525265,247.0,118500.0,35700.0,1485,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940637390302,189.0,138600.0,33220.0,715,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940628687207,207.0,108000.0,38360.0,1357,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940631443304,261.0,146600.0,36100.0,707,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940641062901,248.0,108600.0,39550.0,1186,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940645932579,220.0,126000.0,40550.0,1523,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940654661281,227.0,149900.0,37440.0,772,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940623442173,80.0,113200.0,33420.0,1205,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940621245124,237.0,118500.0,35590.0,1485,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940633733401,265.0,108100.0,36850.0,1388,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940625683716,182.0,118200.0,35790.0,1479,DAN,PAM01,"dopamine, nitric oxide",False,False,False,True,False,False,1,False
+720575940613732271,167.0,118000.0,32270.0,1871,DAN,PAM02,"dopamine, Nplp1, sNPF, sparkly, amnesiac, CG34136",False,False,False,True,False,False,1,False
+720575940621434145,193.0,107100.0,38420.0,1437,DAN,PAM04,dopamine,False,False,False,True,False,False,1,False
+720575940620260800,482.0,118200.0,34480.0,1891,DAN,PAM05,"dopamine, sparkly, Nplp1, amnesiac, CG43117, ion-transport peptide, nitric oxide",False,False,False,True,False,False,1,False
+720575940646288419,626.0,146100.0,39410.0,623,DAN,PAM05,"dopamine, sparkly, Nplp1, amnesiac, CG43117, ion-transport peptide, nitric oxide",False,False,False,True,False,False,1,False
+720575940630166267,221.0,147200.0,38260.0,779,DAN,PAM06,dopamine,False,False,False,True,False,False,1,False
+720575940628094663,392.0,113700.0,35240.0,1335,DAN,PAM07,"dopamine, amnesiac, sparkly, Nplp1, Dh44",False,False,False,True,False,False,1,False
+720575940624545940,265.0,125900.0,39950.0,1626,DAN,PAM07,"dopamine, amnesiac, sparkly, Nplp1, Dh44",False,False,False,True,False,False,1,False
+720575940643543200,408.0,115100.0,36030.0,1417,DAN,PAM07,"dopamine, amnesiac, sparkly, Nplp1, Dh44",False,False,False,True,False,False,1,False
+720575940629379415,796.0,109500.0,37250.0,1272,DAN,PAM08,dopamine,False,False,False,True,False,False,1,False
+720575940642744264,438.0,114800.0,35980.0,1396,DAN,PAM08,dopamine,False,False,False,True,False,False,1,False
+720575940619299054,524.0,109000.0,38620.0,1222,DAN,PAM08,dopamine,False,False,False,True,False,False,1,False
+720575940629960192,497.0,116700.0,33010.0,2399,DAN,PAM10,"dopamine, amnesiac, sparkly, Dh44, CG34136, Nplp1",False,False,False,True,False,False,1,False
+720575940632413604,459.0,103300.0,36290.0,4837,,LHPV5b2,acetylcholine,True,False,False,False,False,False,1,False
+720575940628757547,3965.0,108400.0,29180.0,2864,MBON,MBON15-like,acetylcholine,True,False,False,False,False,False,1,False
+720575940612196850,3219.0,153300.0,32090.0,3298,MBON,MBON15-like,acetylcholine,True,False,False,False,False,False,1,False
+720575940623377802,5721.0,109300.0,28570.0,2828,MBON,MBON16,"acetylcholine, amnesiac, allatostatin-c, Dh44",True,False,False,False,False,False,1,False
+720575940626744921,5548.0,154800.0,31090.0,2349,MBON,MBON16,"acetylcholine, amnesiac, allatostatin-c, Dh44",True,False,False,False,False,False,1,False
+720575940617760257,4888.0,155100.0,31220.0,2319,MBON,MBON17,"acetylcholine, amnesiac, allatostatin-c, Dh44",True,False,False,False,False,False,1,False
+720575940638774606,5205.0,108400.0,28900.0,2854,MBON,MBON17,"acetylcholine, amnesiac, allatostatin-c, Dh44",True,False,False,False,False,False,1,False
+720575940634822751,5163.0,154900.0,31290.0,2382,MBON,MBON17-like,"acetylcholine, amnesiac, allatostatin-c, Dh44",True,False,False,False,False,False,1,False
+720575940624539284,11640.0,107700.0,28670.0,2923,MBON,MBON18,acetylcholine,True,False,False,False,False,False,1,False
+720575940634482783,3839.0,153300.0,27480.0,2285,MBON,MBON19,acetylcholine,True,False,False,False,False,False,1,False
+720575940626833021,3068.0,110700.0,25640.0,2765,MBON,MBON19,acetylcholine,True,False,False,False,False,False,1,False
+720575940626109315,2996.0,152200.0,28360.0,2380,MBON,MBON19,acetylcholine,True,False,False,False,False,False,1,False
+720575940623841463,2709.0,110700.0,25760.0,2742,MBON,MBON19,acetylcholine,True,False,False,False,False,False,1,False
+720575940614892182,7614.0,155400.0,31570.0,2500,MBON,MBON28,acetylcholine,True,False,False,False,False,False,1,False
+720575940614595218,7508.0,108300.0,28960.0,2883,MBON,MBON28,acetylcholine,True,False,False,False,False,False,1,False
+720575940630941783,3012.0,115400.0,31180.0,3531,CX,CB.FB2E6,glutamate,False,False,True,False,False,False,1,False
+720575940637947994,1017.0,98870.0,38570.0,4943,,CB1656,acetylcholine,True,False,False,False,False,False,1,False
+720575940629494010,927.0,102400.0,37060.0,4857,,CB3138,acetylcholine,True,False,False,False,False,False,1,False
+720575940632844002,2577.0,141300.0,27440.0,4013,CX,EPG,"acetylcholine, space blanket",True,False,False,False,False,False,1,False
+720575940604801993,3037.0,142200.0,27300.0,4047,CX,EPG,"acetylcholine, space blanket",True,False,False,False,False,False,1,False
+720575940627140551,2986.0,142600.0,28980.0,4105,CX,EPG,"acetylcholine, space blanket",True,False,False,False,False,False,1,False
+720575940632614295,2793.0,118800.0,36740.0,5170,CX,EPG,"acetylcholine, space blanket",True,False,False,False,False,False,1,False
+720575940610901930,2102.0,121500.0,28990.0,4684,CX,EPG,"acetylcholine, space blanket",True,False,False,False,False,False,1,False
+720575940611216099,2487.0,142600.0,27800.0,4129,CX,EPG,"acetylcholine, space blanket",True,False,False,False,False,False,1,False
+720575940658101889,2169.0,119400.0,34140.0,5072,CX,EPG,"acetylcholine, space blanket",True,False,False,False,False,False,1,False
+720575940618612952,2282.0,123900.0,27380.0,4188,CX,EPG,"acetylcholine, space blanket",True,False,False,False,False,False,1,False
+720575940622364771,2694.0,144400.0,28070.0,4249,CX,EPG,"acetylcholine, space blanket",True,False,False,False,False,False,1,False
+720575940637330142,1226.0,123300.0,28110.0,4173,CX,PEG,"acetylcholine, space blanket, CCHa1, bursicon",True,False,False,False,False,False,1,False
+720575940605135038,742.0,139600.0,25770.0,3677,CX,PEG,"acetylcholine, space blanket, CCHa1, bursicon",True,False,False,False,False,False,1,False
+720575940643020836,2057.0,136900.0,46920.0,1975,CX,ER2,gaba,False,True,False,False,False,False,1,False
+720575940610208917,1988.0,134300.0,48520.0,1803,CX,ER2,gaba,False,True,False,False,False,False,1,False
+720575940617630001,2046.0,137000.0,47890.0,1959,CX,ER2,gaba,False,True,False,False,False,False,1,False
+720575940620084604,2171.0,136800.0,48340.0,1939,CX,ER2,gaba,False,True,False,False,False,False,1,False
+720575940628362812,2143.0,135400.0,49110.0,1870,CX,ER2,gaba,False,True,False,False,False,False,1,False
+720575940630904121,2010.0,124100.0,48520.0,1886,CX,ER4d,gaba,False,True,False,False,False,False,1,False
+720575940606102729,2192.0,137700.0,48480.0,1959,CX,ER4d,gaba,False,True,False,False,False,False,1,False
+720575940643915300,2170.0,135200.0,49460.0,1869,CX,ER4d,gaba,False,True,False,False,False,False,1,False
+720575940631487047,2170.0,123300.0,47660.0,1972,CX,ER4d,gaba,False,True,False,False,False,False,1,False
+720575940615650022,1492.0,133600.0,50050.0,1736,CX,ER5,gaba,False,True,False,False,False,False,1,False
+720575940637126222,1538.0,134300.0,49940.0,1761,CX,ER5,gaba,False,True,False,False,False,False,1,False
+720575940626610960,1545.0,134300.0,50170.0,1737,CX,ER5,gaba,False,True,False,False,False,False,1,False
+720575940630075703,14337.0,126700.0,71600.0,1540,MBON,MBON12,acetylcholine,True,False,False,False,False,False,1,False
+720575940623001480,13582.0,138600.0,74010.0,1346,MBON,MBON12,acetylcholine,True,False,False,False,False,False,1,False
+720575940645304430,14101.0,127900.0,73620.0,1541,MBON,MBON13,acetylcholine,True,False,False,False,False,False,1,False
+720575940643696288,4533.0,126800.0,70620.0,1586,MBON,MBON14,"acetylcholine, sparkly",True,False,False,False,False,False,1,False
+720575940632535756,4768.0,127300.0,69540.0,1606,MBON,MBON14,"acetylcholine, sparkly",True,False,False,False,False,False,1,False
+720575940626143550,952.0,90730.0,27900.0,4433,LHLN,CB1813,glutamate,False,False,True,False,False,False,1,False
+720575940614478230,1279.0,93610.0,28760.0,4472,LHLN,CB2722,glutamate,False,False,True,False,False,False,1,False
+720575940615917580,2278.0,85900.0,38030.0,3782,LHLN,LHAV4a1_b,gaba,False,True,False,False,False,False,1,False
+720575940619253809,4149.0,96980.0,37790.0,4533,LHLN,LHAV2m1,acetylcholine,True,False,False,False,False,False,1,False
+720575940635917935,1465.0,86590.0,41370.0,3912,LHLN,CB2212,gaba,False,True,False,False,False,False,1,False
+720575940620221972,1006.0,85080.0,38160.0,3893,,CB2028,gaba,False,True,False,False,False,False,1,False
+720575940614468007,4685.0,94680.0,38930.0,4906,,CB1518,glutamate,False,False,True,False,False,False,1,False
+720575940647472260,1059.0,86380.0,33690.0,4054,LHLN,CB1535,glutamate,False,False,True,False,False,False,1,False
+720575940625066388,1134.0,88790.0,34160.0,4679,LHLN,CB1571,glutamate,False,False,True,False,False,False,1,False
+720575940614883551,1382.0,90600.0,36150.0,4809,LHLN,CB1571,glutamate,False,False,True,False,False,False,1,False
+720575940628415473,672.0,90250.0,35150.0,4589,,CB2799,glutamate,False,False,True,False,False,False,1,False
+720575940618038813,1231.0,91480.0,36720.0,4865,LHLN,CB2807,glutamate,False,False,True,False,False,False,1,False
+720575940634298975,1163.0,90850.0,37880.0,4872,LHLN,CB2807,glutamate,False,False,True,False,False,False,1,False
+720575940621129181,376.0,155300.0,42110.0,3898,Kenyon_Cell,KCapbp-ap2,"acetylcholine, sparkly",True,False,False,False,False,False,1,False
+720575940624149256,357.0,146700.0,28380.0,3990,Kenyon_Cell,KCapbp-ap2,"acetylcholine, sparkly",True,False,False,False,False,False,1,False
+720575940629445626,523.0,115200.0,36430.0,5213,Kenyon_Cell,KCapbp-ap1,"acetylcholine, sparkly",True,False,False,False,False,False,1,False
+720575940629055447,4274.0,140100.0,38190.0,4191,CX,Delta7,"glutamate, proctolin, ecdysis- triggering hormone, bursicon",False,False,True,False,False,False,1,False
+720575940634627191,4011.0,123900.0,37750.0,4424,CX,Delta7,"glutamate, proctolin, ecdysis- triggering hormone, bursicon",False,False,True,False,False,False,1,False
+720575940611296790,4914.0,141700.0,38410.0,4365,CX,Delta7,"glutamate, proctolin, ecdysis- triggering hormone, bursicon",False,False,True,False,False,False,1,False
+720575940620589082,4171.0,141700.0,38310.0,4311,CX,Delta7,"glutamate, proctolin, ecdysis- triggering hormone, bursicon",False,False,True,False,False,False,1,False
+720575940645823876,3991.0,146400.0,40510.0,4358,CX,Delta7,"glutamate, proctolin, ecdysis- triggering hormone, bursicon",False,False,True,False,False,False,1,False
+720575940619169518,4400.0,120000.0,58640.0,5430,CX,Delta7,"glutamate, proctolin, ecdysis- triggering hormone, bursicon",False,False,True,False,False,False,1,False
+720575940639624307,909.0,104800.0,31400.0,3482,,LHAV6c1a,glutamate,False,False,True,False,False,False,1,False
+720575940626132030,1106.0,95790.0,38060.0,3553,,LHAD1f4c,glutamate,False,False,True,False,False,False,1,False
+720575940614443687,2123.0,96330.0,41150.0,3591,,LHAD1a2,acetylcholine,True,False,False,False,False,False,1,False
+720575940634814315,406.0,105300.0,33670.0,2684,,aSP-g1,acetylcholine,True,False,False,False,False,False,1,False
+720575940631434541,867.0,158500.0,37060.0,2106,,aSP-g1,acetylcholine,True,False,False,False,False,False,1,False
+720575940630245650,855.0,167100.0,44210.0,2661,,aSP-g1,acetylcholine,True,False,False,False,False,False,1,False
+720575940608481860,833.0,166800.0,44270.0,2638,,aSP-g1,acetylcholine,True,False,False,False,False,False,1,False
+720575940630899560,687.0,95840.0,42110.0,3421,,aSP-g1,acetylcholine,True,False,False,False,False,False,1,False
+720575940627600719,822.0,158400.0,37230.0,2087,,aSP-g2,acetylcholine,True,False,False,False,False,False,1,False
+720575940638890355,915.0,158700.0,37230.0,2086,,aSP-g2,acetylcholine,True,False,False,False,False,False,1,False
+720575940616592523,1569.0,149900.0,30940.0,1251,,aSP-g2,acetylcholine,True,False,False,False,False,False,1,False
+720575940611682533,2003.0,157800.0,39350.0,2159,,aSP-g2,acetylcholine,True,False,False,False,False,False,1,False
+720575940618995505,842.0,105000.0,33850.0,2693,,aSP-g2,acetylcholine,True,False,False,False,False,False,1,False
+720575940633118637,1556.0,106800.0,34530.0,2647,,aSP-g3B,acetylcholine,True,False,False,False,False,False,1,False
+720575940627700554,1592.0,157200.0,38840.0,2103,,aSP-g3B,acetylcholine,True,False,False,False,False,False,1,False
+720575940627607192,1578.0,106200.0,35680.0,2704,,aSP-g3B,acetylcholine,True,False,False,False,False,False,1,False
+720575940615606634,1579.0,157900.0,37700.0,2026,,aSP-g3B,acetylcholine,True,False,False,False,False,False,1,False
+720575940639684413,2062.0,92430.0,37330.0,4754,,CB1777,glutamate,False,False,True,False,False,False,1,False
+720575940622209833,614.0,102700.0,31930.0,4687,,CB2318,glutamate,False,False,True,False,False,False,1,False
+720575940623871928,1026.0,95290.0,37490.0,4864,,CB3443,glutamate,False,False,True,False,False,False,1,False
+720575940638471357,1446.0,100700.0,46620.0,3656,,PVLP008,glutamate,False,False,True,False,False,False,1,False
+720575940612940269,1641.0,100200.0,44830.0,3656,,PVLP008,glutamate,False,False,True,False,False,False,1,False
+720575940611891437,1605.0,99240.0,45260.0,3831,,PVLP008,glutamate,False,False,True,False,False,False,1,False
+720575940640899803,1779.0,98980.0,40560.0,3573,,PVLP008,glutamate,False,False,True,False,False,False,1,False
+720575940614928234,1547.0,98480.0,36340.0,4321,,CB3198,acetylcholine,True,False,False,False,False,False,1,False
+720575940623041549,2097.0,91780.0,46270.0,3868,,LHAV1a1,acetylcholine,True,False,False,False,False,False,1,False
+720575940624761331,630.0,93200.0,48800.0,3510,,LHAV1a3,acetylcholine,True,False,False,False,False,False,1,False
+720575940611998578,721.0,87650.0,40440.0,3728,,CB3123,gaba,False,True,False,False,False,False,1,False
+720575940611867629,2009.0,100800.0,50030.0,5080,,LHPV2e1_a,gaba,False,True,False,False,False,False,1,False
+720575940628793916,1135.0,97060.0,58560.0,5269,,"LC40a,LC40b",acetylcholine,True,False,False,False,False,False,1,False
+720575940614230495,786.0,82140.0,42980.0,4426,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940627740432,500.0,79080.0,40470.0,4723,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940625579022,892.0,85750.0,45250.0,4362,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940627006794,987.0,85350.0,45220.0,4301,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940637066047,772.0,83760.0,43110.0,4250,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940606477746,867.0,83580.0,46260.0,4169,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940631745107,412.0,79630.0,40200.0,4721,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940629289721,984.0,80440.0,41760.0,4815,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940615123250,829.0,81580.0,42730.0,4623,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940618650584,586.0,81190.0,42770.0,4372,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940638458173,824.0,85020.0,45340.0,4176,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940612142051,1010.0,85480.0,46290.0,4385,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940612227441,882.0,84970.0,43920.0,4184,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940637604678,540.0,81670.0,41740.0,4425,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940630509098,403.0,83550.0,46340.0,4220,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940625623994,897.0,82700.0,45340.0,4319,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940619219264,1112.0,84020.0,45730.0,4241,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940630016855,939.0,83760.0,44500.0,4395,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940645925508,901.0,79780.0,40930.0,4703,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940623272435,636.0,80500.0,42060.0,4664,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940632592609,969.0,81650.0,42060.0,4506,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940638231997,832.0,83180.0,43200.0,4355,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940620699519,811.0,84470.0,45870.0,4094,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940610485145,1137.0,84070.0,45120.0,4409,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940623737831,983.0,80800.0,42090.0,4396,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940647182644,701.0,81590.0,40650.0,4431,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940628484201,1065.0,83400.0,45460.0,4247,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940638210894,1004.0,82980.0,43140.0,4293,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940631115368,1155.0,84190.0,44850.0,4241,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940617216320,962.0,82180.0,44000.0,4648,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940625396226,1342.0,85050.0,45880.0,4270,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940629013292,818.0,86020.0,49820.0,4271,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940627003847,764.0,83940.0,45770.0,4369,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940635020133,963.0,83500.0,44790.0,4586,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940628684154,761.0,82070.0,43410.0,4604,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940627343089,678.0,82450.0,42230.0,4399,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940611518617,849.0,84710.0,44830.0,4320,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940622462685,1058.0,82060.0,44490.0,4318,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940622313451,878.0,178200.0,50160.0,3388,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940619419813,937.0,82700.0,42550.0,4338,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940616613009,904.0,88180.0,48490.0,4503,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940630466346,918.0,87610.0,48070.0,4460,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940629204303,1059.0,83360.0,44720.0,4264,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940611580313,595.0,89060.0,51510.0,5198,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940624802250,1078.0,87150.0,47860.0,4387,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940621953264,915.0,85260.0,47640.0,4226,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940617989686,817.0,84610.0,44420.0,4426,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940625048638,1063.0,84380.0,44260.0,4174,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940616715732,986.0,86740.0,46970.0,4249,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940626669114,1060.0,81490.0,43050.0,4808,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940645288740,985.0,85210.0,45770.0,4356,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940638900558,896.0,83540.0,42460.0,4241,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940628026112,831.0,81710.0,42900.0,4713,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940624461319,858.0,83080.0,44980.0,4192,,LC6,acetylcholine,True,False,False,False,False,False,1,False
+720575940646502020,1352.0,84870.0,34290.0,3993,,CB1166,acetylcholine,True,False,False,False,False,False,1,False
+720575940630269143,1081.0,93680.0,44090.0,4500,,CB2151,gaba,False,True,False,False,False,False,1,False
+720575940618932603,9661.0,94700.0,40670.0,4462,,MB-C1,gaba,False,True,False,False,False,False,1,False
+720575940639349053,1076.0,96140.0,51150.0,4415,,LHPV3b1_b,acetylcholine,True,False,False,False,False,False,1,False
+720575940627632428,1491.0,105300.0,67560.0,3994,,WEDPN1A,gaba,False,True,False,False,False,False,1,False
+720575940615160386,14199.0,155500.0,84500.0,3142,ALPN,VL1_ilPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940620595053,13483.0,107800.0,81300.0,3417,ALPN,VL1_ilPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940626143806,25272.0,157200.0,82300.0,3242,ALPN,V_ilPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940630546540,25821.0,107500.0,79550.0,3749,ALPN,V_ilPN,acetylcholine,True,False,False,False,False,False,1,False
+720575940616101789,5879.0,140900.0,59390.0,2185,,WED069,,False,False,False,False,False,False,0,False
+720575940652390134,4751.0,115900.0,36920.0,2380,MBON,MBON07,"glutamate, sparkly, Nplp1",False,False,True,False,False,False,1,False
+720575940617302365,4706.0,116000.0,39350.0,2262,MBON,MBON07,"glutamate, sparkly, Nplp1",False,False,True,False,False,False,1,False
+720575940621040737,4515.0,100700.0,36560.0,5117,DAN,PPL101,"dopamine, sparkly, Dh44, Nplp1, sNPF, nitric oxide",False,False,False,True,False,False,1,False
+720575940617691170,3996.0,136100.0,36130.0,1828,DAN,PPL101,"dopamine, sparkly, Dh44, Nplp1, sNPF, nitric oxide",False,False,False,True,False,False,1,False
+720575940631758393,8891.0,143700.0,36460.0,2622,DAN,PPL103,"dopamine, sparkly, Nplp1",False,False,False,True,False,False,1,False
+720575940647147908,2881.0,121400.0,34850.0,2635,DAN,PPL105,"dopamine, Dh31, sparkly, sNPF, Ms, Nplp1, tachykinin",False,False,False,True,False,False,1,False
+720575940609180611,2451.0,115000.0,30610.0,3028,DAN,PPL106,"dopamine, sparkly, amnesiac",False,False,False,True,False,False,1,False
+720575940626022074,3892.0,105600.0,45250.0,4828,DAN,PPL202,dopamine,False,False,False,True,False,False,1,False
+720575940618130833,2096.0,104400.0,36000.0,4463,DAN,PPL203,"dopamine, gaba",False,True,False,True,False,False,2,True
+720575940630913221,755.0,113200.0,35740.0,4339,DAN,PPL204,dopamine,False,False,False,True,False,False,1,False
+720575940611772514,5305.0,102200.0,65430.0,4985,,cL16,dopamine,False,False,False,True,False,False,1,False
+720575940616390261,18320.0,167000.0,47890.0,4908,,LAL138,,False,False,False,False,False,False,0,False
+720575940605876866,20331.0,111100.0,47970.0,2778,,LAL138,,False,False,False,False,False,False,0,False
+720575940617749538,13801.0,147700.0,48190.0,587,MBON,MBON11,"gaba, sparkly",False,True,False,False,False,False,1,False
+720575940611344078,21222.0,139500.0,49490.0,2004,MBON,MBON20,gaba,False,True,False,False,False,False,1,False
+720575940624185095,5958.0,128200.0,44370.0,1507,MBON,MBON02,glutamate,False,False,True,False,False,False,1,False
+720575940624590316,12473.0,124100.0,41020.0,1818,MBON,MBON03,glutamate,False,False,True,False,False,False,1,False
+720575940631270162,2046.0,105300.0,70660.0,5151,,DNg30,"serotonin, natalisin",False,False,False,False,True,False,1,False
+720575940617552340,11982.0,130600.0,29150.0,1116,MBON,MBON02,glutamate,False,False,True,False,False,False,1,False
+720575940624694503,14644.0,135300.0,41430.0,1642,MBON,MBON03,glutamate,False,False,True,False,False,False,1,False
+720575940630496374,13474.0,156200.0,49990.0,1437,MBON,MBON05,glutamate,False,False,True,False,False,False,1,False
+720575940610964946,11219.0,160100.0,53740.0,595,MBON,MBON09,gaba,False,True,False,False,False,False,1,False
+720575940613367190,2965.0,147700.0,48670.0,4494,,CRE106,,False,False,False,False,False,False,0,False
+720575940614427253,2043.0,66290.0,74020.0,3580,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940615452305,2133.0,69770.0,72170.0,3591,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940628462700,2074.0,79440.0,67960.0,2687,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940614856359,2030.0,55820.0,55750.0,4687,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940613903477,2088.0,72780.0,73420.0,2817,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940615133115,1966.0,80260.0,61320.0,2632,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940629591543,1923.0,80520.0,71690.0,2800,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940630780357,2129.0,82880.0,73530.0,2929,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940644874020,1549.0,68710.0,41150.0,5324,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940618416517,2140.0,80580.0,70620.0,2864,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940625018860,2018.0,69440.0,75340.0,3471,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940619239734,2170.0,69180.0,73500.0,3815,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940629221199,1154.0,88480.0,76410.0,3255,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940639496245,2068.0,81040.0,76790.0,3007,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940626639106,1456.0,81080.0,64140.0,2598,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940632959583,2226.0,66610.0,71080.0,3888,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940610174387,2473.0,69160.0,65780.0,3342,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940618530206,1990.0,85170.0,75780.0,3054,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940626231068,2191.0,82520.0,76340.0,3014,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940621056109,,58510.0,42300.0,5982,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940650356857,2125.0,80640.0,78030.0,3043,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940609868949,1530.0,82900.0,70820.0,2739,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940637889139,1930.0,80260.0,79180.0,3101,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940629829175,2291.0,53450.0,71940.0,4909,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940623800573,2098.0,68260.0,71460.0,3282,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940628202796,1952.0,85190.0,73680.0,2899,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940626070123,2101.0,71940.0,79280.0,3931,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940635178744,2268.0,57100.0,72030.0,5264,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940629519515,1471.0,81020.0,57890.0,2594,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940615991362,1916.0,76530.0,80730.0,3133,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940617783355,1603.0,64080.0,39650.0,5189,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940617211724,1996.0,84250.0,75340.0,3010,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940628471292,1962.0,69580.0,72840.0,3328,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940627582972,2150.0,70270.0,76690.0,3852,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940619205286,2092.0,73330.0,84340.0,3283,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940638896216,1611.0,78180.0,85110.0,3658,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940631249325,1599.0,77490.0,87320.0,3675,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940631173975,1868.0,80820.0,79980.0,3156,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940620543297,1548.0,67930.0,38470.0,4871,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940606700674,1754.0,82450.0,81200.0,3351,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940616262651,2117.0,78310.0,77350.0,2977,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940612210289,1419.0,85580.0,77890.0,3265,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940627357289,2273.0,69380.0,74020.0,2865,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940631639656,1818.0,87430.0,73530.0,3041,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940624434685,1318.0,84900.0,71500.0,2767,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940618504395,2452.0,51740.0,69850.0,4905,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940638571583,2308.0,66600.0,67950.0,5618,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940607368322,2205.0,73270.0,80470.0,3013,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940628350407,1497.0,52480.0,51940.0,6120,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940610337234,2022.0,61380.0,81540.0,4448,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940631093352,1979.0,54630.0,55240.0,4766,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940630275840,,58340.0,52030.0,6324,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940630777206,1628.0,50980.0,55330.0,5620,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940623872807,1738.0,83660.0,79700.0,3353,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940630419852,2284.0,56230.0,70640.0,5401,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940636567408,2091.0,54840.0,60000.0,5048,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940615517746,2300.0,56850.0,69370.0,4658,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940623120618,2106.0,42480.0,71940.0,5078,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940624812808,1753.0,77420.0,84290.0,3706,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940640521357,2105.0,71280.0,82510.0,3145,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940633918968,2202.0,70130.0,75560.0,4047,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940618519163,2009.0,85530.0,72100.0,2798,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940610902806,1846.0,87700.0,74340.0,3042,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940629208684,1863.0,79770.0,84430.0,3432,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940649409401,,84400.0,80500.0,3379,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940623349203,1199.0,88870.0,74620.0,3102,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940623561485,1454.0,66450.0,90480.0,5700,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940612822422,1074.0,88700.0,73630.0,2961,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940625015015,1166.0,85920.0,85860.0,4116,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940613847983,1240.0,88060.0,81670.0,3835,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940626584522,1667.0,85820.0,75220.0,3086,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940636735088,1896.0,80080.0,80460.0,3166,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940609890787,1606.0,73780.0,91670.0,4758,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940623798259,1635.0,73850.0,91270.0,4573,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940637933656,1399.0,86180.0,73140.0,2916,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940608756747,1147.0,55860.0,71660.0,5010,ME>LO,Tm2,acetylcholine,True,False,False,False,False,False,1,False
+720575940604453408,1047.0,45850.0,75780.0,5343,ME>LO,Tm3,acetylcholine,True,False,False,False,False,False,1,False
+720575940628140231,970.0,52680.0,69800.0,5039,ME>LO,Tm3,acetylcholine,True,False,False,False,False,False,1,False
+720575940606817737,755.0,53780.0,73580.0,4875,ME>LO,Tm3,acetylcholine,True,False,False,False,False,False,1,False
+720575940632574893,918.0,57150.0,71420.0,5088,ME>LO,Tm3,acetylcholine,True,False,False,False,False,False,1,False
+720575940612599215,6659.0,130000.0,83920.0,5799,AN,VES002,acetylcholine,True,False,False,False,False,False,1,False
+720575940642944141,1211.0,54410.0,69200.0,5241,ME,Mi4,"gaba, nitric oxide",False,True,False,False,False,False,1,False
+720575940622310170,1190.0,55460.0,73100.0,5111,ME,Mi4,"gaba, nitric oxide",False,True,False,False,False,False,1,False
+720575940609770691,1014.0,54920.0,66880.0,5084,ME,Mi4,"gaba, nitric oxide",False,True,False,False,False,False,1,False
+720575940619180155,890.0,81300.0,71420.0,2756,ME,Mi4,"gaba, nitric oxide",False,True,False,False,False,False,1,False
+720575940614677713,1078.0,55440.0,70550.0,5407,ME,Mi4,"gaba, nitric oxide",False,True,False,False,False,False,1,False
+720575940615697823,1131.0,53620.0,73250.0,4820,ME,Mi4,"gaba, nitric oxide",False,True,False,False,False,False,1,False
+720575940620683456,1112.0,55260.0,71060.0,5112,ME,Mi4,"gaba, nitric oxide",False,True,False,False,False,False,1,False
+720575940605362912,1028.0,54660.0,68470.0,5168,ME,Mi4,"gaba, nitric oxide",False,True,False,False,False,False,1,False
+720575940622757895,1138.0,42900.0,72410.0,5484,ME,Mi4,"gaba, nitric oxide",False,True,False,False,False,False,1,False
+720575940635539374,1206.0,45630.0,68690.0,5453,ME,Mi9,"glutamate, gaba",False,True,True,False,False,False,2,True
+720575940625091819,1305.0,55850.0,72050.0,5260,ME,Mi9,"glutamate, gaba",False,True,True,False,False,False,2,True
+720575940637308528,1258.0,55420.0,68880.0,5041,ME,Mi9,"glutamate, gaba",False,True,True,False,False,False,2,True
+720575940611896434,1116.0,55110.0,70000.0,5149,ME,Mi9,"glutamate, gaba",False,True,True,False,False,False,2,True
+720575940612201329,1108.0,59380.0,72820.0,5090,ME,Mi9,"glutamate, gaba",False,True,True,False,False,False,2,True
+720575940605017312,2137.0,75660.0,67890.0,3460,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940637562458,1986.0,69660.0,71710.0,3246,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940631297583,1974.0,74060.0,59800.0,3247,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940629067205,2178.0,70500.0,73120.0,3717,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940625954579,2127.0,84630.0,72380.0,2820,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940636258623,2395.0,81610.0,62080.0,2581,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940632391264,1749.0,78740.0,54060.0,2845,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940611642773,1881.0,80550.0,64740.0,2638,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940611437846,1798.0,82060.0,63080.0,2739,ME,Mi1,acetylcholine,True,False,False,False,False,False,1,False
+720575940635955007,1289.0,56020.0,71720.0,5032,ME,Mi9,"glutamate, gaba",False,True,True,False,False,False,2,True
