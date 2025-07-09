@@ -36,8 +36,8 @@ def get_fafb_cave_client()-> CAVEclient:
         auth = client.auth
         # save the token if it is not already saved
         if not auth.token:
-            print("Saving the CAVE token to the .env file.")
-            auth.save_token(cave_token)
+            print("Using the CAVE token from the .env file.")
+            auth.save_token(cave_token, overwrite=True)
         else:
             print(f"Using existing CAVE token: {auth.token[:5]}... (truncated for security)")
     else:
