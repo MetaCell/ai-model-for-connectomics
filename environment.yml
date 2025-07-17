@@ -13,3 +13,4 @@ dependencies:
     - python-decouple
     - cloud-volume
     - caveclient
+    - fafbseg
