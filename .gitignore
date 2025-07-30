@@ -1,2 +1,4 @@
 .env
 sandbox.ipynb
+.DS_Store
+*.pyc
