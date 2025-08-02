@@ -28,4 +28,7 @@ def convert_jsonl_to_json(input_file, output_file):
 
 
 if __name__ == "__main__":
-    convert_jsonl_to_json("skeleton_test_t1_p1.json", "skeleton_test_t1_p1_fixed.json")
+    convert_jsonl_to_json(
+        "./test_data_from_alex/skeletons.json",
+        "./test_data_from_alex/skeletons_fixed.json",
+    )

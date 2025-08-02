@@ -2,3 +2,7 @@
 sandbox.ipynb
 .DS_Store
 *.pyc
+*.json
+data/fix_json.py
+notebooks/synapse_clusters.csv
+k_nearest_thresholds.png
