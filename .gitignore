@@ -6,3 +6,7 @@ sandbox.ipynb
 data/fix_json.py
 notebooks/synapse_clusters.csv
 k_nearest_thresholds.png
+data/read_jsonl_example.py
+data/test_data_from_alex/single_neuron/720575940607155890_pre_synapses.parquet
+data/test_data_from_alex/single_neuron/test_root_presynapses.parquet
+data/test_root_presynapses.parquet
