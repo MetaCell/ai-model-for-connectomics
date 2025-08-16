@@ -1,0 +1,5 @@
+root_id,classification_system,cell_type,num_synapses,softmax_threshold,ratio_threshold,bandwidth_quantile_value,min_synapses_ratio_value,GABA,ACh,Glut,Oct,Ser,DA,Unknown
+720575940628498161,cell_type,DNp08,5305,0.25,0.16,0.14285714285714285,0.01,True,True,True,True,True,True,False
+720575940633170643,cell_type,DNp08,6298,0.25,0.16,0.14285714285714285,0.01,True,True,True,False,True,True,False
+720575940632499757,cell_type,DNp01,6192,0.25,0.16,0.14285714285714285,0.01,True,True,True,True,True,True,False
+720575940622838154,cell_type,DNp01,8230,0.25,0.16,0.14285714285714285,0.01,True,True,True,True,True,True,False
