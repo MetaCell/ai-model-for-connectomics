@@ -1,0 +1,11 @@
+root_id,classification_system,cell_type,num_synapses,min_synapses,softmax_threshold,ratio_threshold,bandwidth_quantile_value,min_synapses_ratio_value,GABA,ACh,Glut,Oct,Ser,DA,Unknown
+720575940625653029,cell_type,DNx02,959,400,0.25,0.16,0.14285714285714285,0.01,True,True,True,True,True,False,False
+720575940625653029,cell_type,DNx02,959,400,0.25,0.16,0.04,0.01,True,True,True,True,True,False,False
+720575940632644639,cell_type,DNx02,4279,400,0.25,0.16,0.14285714285714285,0.01,False,True,False,False,True,False,False
+720575940632644639,cell_type,DNx02,4279,400,0.25,0.16,0.04,0.01,False,True,False,False,False,False,False
+720575940638836285,cell_type,DNx02,4074,400,0.25,0.16,0.14285714285714285,0.01,True,True,False,False,True,False,False
+720575940638836285,cell_type,DNx02,4074,400,0.25,0.16,0.04,0.01,False,True,False,False,False,False,False
+720575940635254117,cell_type,DNx01,1913,400,0.25,0.16,0.14285714285714285,0.01,True,True,True,True,True,False,False
+720575940635254117,cell_type,DNx01,1913,400,0.25,0.16,0.04,0.01,False,True,True,True,True,False,False
+720575940625101360,cell_type,DNx01,2363,400,0.25,0.16,0.14285714285714285,0.01,True,True,True,True,True,False,False
+720575940625101360,cell_type,DNx01,2363,400,0.25,0.16,0.04,0.01,True,True,True,True,True,False,False

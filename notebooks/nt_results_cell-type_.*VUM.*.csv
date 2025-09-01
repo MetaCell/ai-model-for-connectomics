@@ -1,0 +1,17 @@
+root_id,classification_system,cell_type,num_synapses,min_synapses,softmax_threshold,ratio_threshold,bandwidth_quantile_value,min_synapses_ratio_value,GABA,ACh,Glut,Oct,Ser,DA,Unknown
+720575940624394790,cell_type,OA-VUMa8,30679,400,0.25,0.16,0.14285714285714285,0.01,False,True,False,True,True,True,False
+720575940624394790,cell_type,OA-VUMa8,30679,400,0.25,0.16,0.04,0.01,False,True,False,True,True,True,False
+720575940623164515,cell_type,OA-VUMa3,11187,400,0.25,0.16,0.14285714285714285,0.01,False,True,True,True,True,True,False
+720575940623164515,cell_type,OA-VUMa3,11187,400,0.25,0.16,0.04,0.01,False,True,False,True,True,False,False
+720575940626051514,cell_type,OA-VUMa3,12114,400,0.25,0.16,0.14285714285714285,0.01,False,True,False,True,True,True,False
+720575940626051514,cell_type,OA-VUMa3,12114,400,0.25,0.16,0.04,0.01,False,True,False,True,True,True,False
+720575940630460919,cell_type,OA-VUMa4,20869,400,0.25,0.16,0.14285714285714285,0.01,False,True,True,True,True,True,False
+720575940630460919,cell_type,OA-VUMa4,20869,400,0.25,0.16,0.04,0.01,False,False,True,True,True,True,False
+720575940636479668,cell_type,OA-VUMa4,19451,400,0.25,0.16,0.14285714285714285,0.01,True,False,True,True,True,True,False
+720575940636479668,cell_type,OA-VUMa4,19451,400,0.25,0.16,0.04,0.01,True,False,True,True,True,True,False
+720575940621875821,cell_type,OA-VUMx1,16311,400,0.25,0.16,0.14285714285714285,0.01,False,True,False,False,True,True,False
+720575940621875821,cell_type,OA-VUMx1,16311,400,0.25,0.16,0.04,0.01,False,False,False,False,True,True,False
+720575940610708430,cell_type,OA-VUMx2,13328,400,0.25,0.16,0.14285714285714285,0.01,False,True,True,False,True,True,False
+720575940610708430,cell_type,OA-VUMx2,13328,400,0.25,0.16,0.04,0.01,False,True,True,False,True,False,False
+720575940621662332,cell_type,OA-VUMx3,21360,400,0.25,0.16,0.14285714285714285,0.01,True,True,True,False,True,True,False
+720575940621662332,cell_type,OA-VUMx3,21360,400,0.25,0.16,0.04,0.01,True,False,True,False,False,False,False
