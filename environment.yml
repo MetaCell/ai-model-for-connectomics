@@ -8,7 +8,9 @@ dependencies:
   - numpy
   - matplotlib
   - seaborn
+  - scipy
   - pip
+  - plotly
   - pip:
     - python-decouple
     - cloud-volume
