@@ -1,5 +1,5 @@
 # ai-model-for-connectomics
-AI Model for Connectomics
+AI Model for Connectomics is a project designed to investigate the neurotransmitter identities of VNC neurons in the drosophila.
 
 ## Set up virtual environment
 This is designed to run as a conda environment. So use the standard commands to set up and enter the environment
