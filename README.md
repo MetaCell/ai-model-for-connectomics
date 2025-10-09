@@ -8,55 +8,6 @@ conda env create -f environment.yml
 conda activate fau_connectomics
 ```
 
-## Data
-The [data folder](data) contains datasets and utilities for working with FAFB and hemibrain connectome data:
-
-### Supplemental Data from Paper
-Located in `supplemental_data_from_paper/`:
-* **DataS1_CellTypesUsedForGroundTruth.csv** - Cell type classifications used for validation
-* **DataS2_NeuronalReconstructionsUsedForGroundTruth.csv** - Reference neuronal reconstructions
-* **DataS3_HemiBrainReconstructionData.csv** - Hemibrain connectome reconstruction data
-* **DataS4_FAFBreconstruction.csv** - FAFB reconstruction data (also available as `simplified_DataS4.csv`)
-* **DataS6_SummaryResults.csv** - Summary statistics and results
-* **DataS7.csv** - Additional supplementary data
-
-### Test Data from Collaborators
-Located in `test_data_from_alex/`:
-* **hemi_lineages.json** - Hemibrain lineage information
-* **skeletons.json** / **skeletons_fixed.json** - Neuron skeleton data in JSON format
-* **synapses_xyz_pos.json** - Synapse spatial coordinates
-* **single_neuron/** - Individual neuron data for testing
-
-### Utility Scripts
-* **fix_json.py** - Converts JSONL (JSON Lines) format to standard JSON array format
-* **read_jsonl_example.py** - Example script for reading JSONL files
-* **single_neuron_presynapses.parquet** - Parquet format data for single neuron presynaptic terminals
-
-## load_data
-The [load_data folder](load_data) contains Python modules for data loading and analysis:
-
-### Core Modules
-* **connect_clients.py** - Functions to connect to CAVE and FlyWire clients
-  - Handles authentication token management
-  - Provides secure connection setup with environment variable support
-  - Prompts for tokens if not found in `.env` file
-
-* **get_synapse_locations.py** - Functions to extract synapse location data from FAFB
-  - Initializes FAFB CAVE client
-  - Retrieves synapse coordinates and metadata
-  - Handles voxel resolution conversions
-
-* **fafb_cotransmission_investigation.py** - Core analysis functions for cotransmission detection
-  - `get_codex_synapse_predictions()` - Retrieves NT predictions for a given root ID
-  - `get_neuron_skeleton()` - Fetches neuron skeleton geometry
-  - `identify_nt_contributions()` - Analyzes NT composition per neuron
-  - Implements mean-shift clustering for spatial analysis
-  - Generates visualization functions for NT distributions
-
-### Usage
-These modules are imported by the analysis notebooks to provide consistent data access and processing functions. They require authentication tokens stored in a `.env` file (see setup instructions above).
-
-
 ## notebooks
 Jupyter notebooks that explore the data. Note to gain access to the cave client and flywire client you will need to get/use your own secret keys.
 
@@ -162,5 +113,53 @@ NB Corresponding output data is stored in subfolders. For all the possible root-
     * NT expression frequencies across cell types
     * Most common cotransmission combinations
     * Cell type-specific NT profiles
+
+## Data
+The [data folder](data) contains datasets and utilities for working with FAFB and hemibrain connectome data:
+
+### Supplemental Data from Paper
+Located in `supplemental_data_from_paper/`:
+* **DataS1_CellTypesUsedForGroundTruth.csv** - Cell type classifications used for validation
+* **DataS2_NeuronalReconstructionsUsedForGroundTruth.csv** - Reference neuronal reconstructions
+* **DataS3_HemiBrainReconstructionData.csv** - Hemibrain connectome reconstruction data
+* **DataS4_FAFBreconstruction.csv** - FAFB reconstruction data (also available as `simplified_DataS4.csv`)
+* **DataS6_SummaryResults.csv** - Summary statistics and results
+* **DataS7.csv** - Additional supplementary data
+
+### Test Data from Collaborators
+Located in `test_data_from_alex/`:
+* **hemi_lineages.json** - Hemibrain lineage information
+* **skeletons.json** / **skeletons_fixed.json** - Neuron skeleton data in JSON format
+* **synapses_xyz_pos.json** - Synapse spatial coordinates
+* **single_neuron/** - Individual neuron data for testing
+
+### Utility Scripts
+* **fix_json.py** - Converts JSONL (JSON Lines) format to standard JSON array format
+* **read_jsonl_example.py** - Example script for reading JSONL files
+* **single_neuron_presynapses.parquet** - Parquet format data for single neuron presynaptic terminals
+
+## load_data
+The [load_data folder](load_data) contains Python modules for data loading and analysis:
+
+### Core Modules
+* **connect_clients.py** - Functions to connect to CAVE and FlyWire clients
+  - Handles authentication token management
+  - Provides secure connection setup with environment variable support
+  - Prompts for tokens if not found in `.env` file
+
+* **get_synapse_locations.py** - Functions to extract synapse location data from FAFB
+  - Initializes FAFB CAVE client
+  - Retrieves synapse coordinates and metadata
+  - Handles voxel resolution conversions
+
+* **fafb_cotransmission_investigation.py** - Core analysis functions for cotransmission detection
+  - `get_codex_synapse_predictions()` - Retrieves NT predictions for a given root ID
+  - `get_neuron_skeleton()` - Fetches neuron skeleton geometry
+  - `identify_nt_contributions()` - Analyzes NT composition per neuron
+  - Implements mean-shift clustering for spatial analysis
+  - Generates visualization functions for NT distributions
+
+### Usage
+These modules are imported by the analysis notebooks to provide consistent data access and processing functions. They require authentication tokens stored in a `.env` file (see setup instructions above).
 
 
