@@ -1,7 +1,20 @@
 # ai-model-for-connectomics
 AI Model for Connectomics is a project designed to investigate the neurotransmitter identities of VNC neurons in the drosophila.
 
-## Set up virtual environment
+## Set up
+There are two things that you will need to get all the notebooks up and running. You will need to set up a conda environment and also get the tokens for `Flywire` and `CAVE` which you will need to store in your `.env` file.
+
+### Creating your `.env` file
+You can use the `.env.example` but you should store two variables
+
+```bash
+CAVE_AUTH_TOKEN="this should be a 32 character long random string"
+FLYWIRE_AUTH_TOKEN="this should be a 32 character long random string"
+```
+
+The `load_data/connect_clients.py` module will automatically generate new tokens for you to use if you don't have them stored in the `.env` file.
+
+### Set up virtual environment
 This is designed to run as a conda environment. So use the standard commands to set up and enter the environment
 ```bash
 conda env create -f environment.yml
