@@ -1,0 +1,9 @@
+*.pyc
+test/
+/base_dir/
+/synister.egg-info/dependency_links.txt
+/synister.egg-info/PKG-INFO
+/synister.egg-info/SOURCES.txt
+/synister.egg-info/top_level.txt
+base_dir/experiment/train_1/setup_t1/snapshots
+src/
